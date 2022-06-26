@@ -13,6 +13,7 @@ SOURCES += \
     class_002.cpp \
     funcblock_001.cpp \
     funcblock_002.cpp \
+    funcblock_003.cpp \
     main.cpp \
     mainwindow.cpp \
     variables.cpp
@@ -23,6 +24,7 @@ HEADERS += \
     constants.h \
     funcblock_001.h \
     funcblock_002.h \
+    funcblock_003.h \
     mainwindow.h \
     variables.h
 

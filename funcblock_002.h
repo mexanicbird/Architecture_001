@@ -3,6 +3,6 @@
 
 #include "mainwindow.h"
 
-void function_02();
+void function_02(int data);
 
 #endif // FUNCBLOCK_002_H

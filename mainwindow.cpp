@@ -7,8 +7,13 @@ MainWindow::MainWindow(QWidget *parent)
 {
     ui->setupUi(this);
     INTEGER.append(MASKBIT_03);
-    function_01();
-    function_02();
+    Class_001 c1;
+    Class_002 c2;
+    c1.setData(11);
+    c2.setData(22);
+    function_01(c1.getData());
+    function_02(c2.getData());
+    function_03(BOOLEAN);
 }
 
 MainWindow::~MainWindow()

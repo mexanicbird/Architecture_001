@@ -12,6 +12,7 @@
 #include "constants.h"
 #include "funcblock_001.h"
 #include "funcblock_002.h"
+#include "funcblock_003.h"
 #include "class_001.h"
 #include "class_002.h"
 

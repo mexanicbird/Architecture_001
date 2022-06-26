@@ -2,7 +2,7 @@
 #define CONSTANTS_H
 
 #include "mainwindow.h"
-using namespace std;
+
 
 /*******************************Const*******************************/
 

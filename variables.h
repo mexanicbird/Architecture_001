@@ -2,7 +2,7 @@
 #define VARIABLES_H
 
 #include "mainwindow.h"
-using namespace std;
+
 
 /*******************************Strucrures***************************/
 struct BoolData
