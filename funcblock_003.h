@@ -4,6 +4,6 @@
 #include "mainwindow.h"
 #include "variables.h"
 
-void function_03(BoolData inputStructData);
+//void function_03(BoolData inputStructData);
 
 #endif // FUNCBLOCK_003_H

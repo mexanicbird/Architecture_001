@@ -13,7 +13,7 @@ MainWindow::MainWindow(QWidget *parent)
     c2.setData(22);
     function_01(c1.getData());
     function_02(c2.getData());
-    function_03(BOOLEAN);
+//    function_03(BOOLEAN);
 }
 
 MainWindow::~MainWindow()
