@@ -1,6 +1,6 @@
 #ifndef CLASS_001_H
 #define CLASS_001_H
-#include "mainwindow.h"
+#include <mainwindow.h>
 
 class Class_001
 {

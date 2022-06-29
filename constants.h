@@ -1,7 +1,7 @@
 #ifndef CONSTANTS_H
 #define CONSTANTS_H
 
-#include "mainwindow.h"
+#include <mainwindow.h>
 
 
 /*******************************Const*******************************/

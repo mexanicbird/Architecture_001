@@ -8,13 +8,13 @@
 #include <QVector>
 #include <QFileDialog>
 #include <QDebug>
-#include "variables.h"
-#include "constants.h"
-#include "funcblock_001.h"
-#include "funcblock_002.h"
-#include "funcblock_003.h"
-#include "class_001.h"
-#include "class_002.h"
+#include <variables.h>
+#include <constants.h>
+#include <funcblock_001.h>
+#include <funcblock_002.h>
+#include <funcblock_003.h>
+#include <class_001.h>
+#include <class_002.h>
 
 
 QT_BEGIN_NAMESPACE
